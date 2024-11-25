@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Base de Dados - Solosoothe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+        }
+        a {
+            display: inline-block;
+            text-decoration: none;
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        a:hover {
+            background-color: #0056b3;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Base de Dados - Solosoothe</h1>
+    </header>
+    <main>
+        <p>Bem-vindo à página da base de dados da Solosoothe. Clique no botão abaixo para acessar a base de dados:</p>
+        <a href="https://drive.google.com/drive/folders/11MsXndWOCYceY8Y48EYOiOihoeIAqHkv" target="_blank">Acessar Base de Dados</a>
+    </main>
+    <footer>
+        &copy; 2024 Solosoothe. Todos os direitos reservados.
+    </footer>
+</body>
+</html>
